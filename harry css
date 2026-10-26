@@ -1,0 +1,80 @@
+
+/* General page styling */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f0f4f8;
+    color: #243447;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+}
+
+/* ID selector */
+#main-title {
+    color: #ffffff;
+    font-size: 36px;
+    margin: 0 0 5px 0;
+}
+
+/* Header styling */
+header {
+    background-color: #17365d;
+    text-align: center;
+    padding: 30px 20px;
+    margin-bottom: 25px;
+    border: 3px solid #2a9d8f;
+    border-radius: 12px;
+}
+
+.subtitle {
+    color: #d8e8f5;
+    font-size: 18px;
+    margin: 0;
+}
+
+/* Type selector */
+h2 {
+    color: #17365d;
+    border-bottom: 2px solid #2a9d8f;
+    padding-bottom: 8px;
+    margin-top: 0;
+}
+
+/* Class selector and box model */
+.content-card {
+    background-color: #ffffff;
+    margin: 20px auto;
+    padding: 22px;
+    border: 2px solid #d4e1eb;
+    border-left: 6px solid #2a9d8f;
+    border-radius: 8px;
+    max-width: 800px;
+}
+
+/* Special highlighted paragraph */
+.highlight {
+    background-color: #e0f4f1;
+    color: #145c55;
+    padding: 12px;
+    margin: 15px 0;
+    border: 1px solid #2a9d8f;
+    border-radius: 5px;
+}
+
+/* List styling */
+li {
+    margin: 8px 0;
+    padding-left: 5px;
+}
+
+/* Footer styling */
+footer {
+    background-color: #17365d;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 30px;
+    padding: 15px;
+    border-top: 4px solid #2a9d8f;
+    border-radius: 8px;
+}
+# </html>
